@@ -13,7 +13,7 @@ class App extends Component {
           </div>
         </div>
         <div className="right-scene">
-          <GifList />
+          {/* <GifList /> */}
         </div>
       </div>
     );
